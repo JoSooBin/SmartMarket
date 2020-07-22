@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SmartMarket</string>
+
+    <string name="intro_name">2018250065 조수빈</string>
+
+    <string name="info_name">조수빈</string>
+    <string name="info_school">한경대학교</string>
+    <string name="info_number">2018250065</string>
+    <string name="info_email">officialsb0203@gmail.com</string>
+</resources>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "999288234379",
+    "firebase_url": "https://smartmarket-52b19.firebaseio.com",
+    "project_id": "smartmarket-52b19",
+    "storage_bucket": "smartmarket-52b19.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:999288234379:android:ec032984455f93a02b4f8e",
+        "android_client_info": {
+          "package_name": "kr.co.royzero.smartmarket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "999288234379-uj2u3fiqrfruvc1jtmdqphltsf6dttb8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "kr.co.royzero.smartmarket",
+            "certificate_hash": "acae36658e3bb2d7a2ad54d2ef398c1e3e90f683"
+          }
+        },
+        {
+          "client_id": "999288234379-ib6r1s0vkbascghjh7fk9hsitvnm9hlj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjM2EFAoXfSH6TcoALWLyJSbVtEHBDMI4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "999288234379-ib6r1s0vkbascghjh7fk9hsitvnm9hlj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
